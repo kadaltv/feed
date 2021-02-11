@@ -26,25 +26,25 @@ http://192.166.246.122/hls/ovostreamss.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/pdd43f1610891709.png" group-title="LIVE EPL",LIVE OVO 2
 http://192.166.246.122/hls/ovo2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 01 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 01 FPT
 http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 02 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 02 FPT
 http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 03 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 03 FPT
 http://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 04 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 04 FPT
 http://livecdn.fptplay.net/italyfootball/seriea04_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 05 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 05 FPT
 http://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 06 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 06 FPT
 http://livecdn.fptplay.net/italyfootball/seriea06_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 07 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 07 FPT
 http://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 08 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 08 FPT
 http://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 09 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 09 FPT
 http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 10 FPT
+#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIE A LIVE",SERIEA 10 FPT
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCFY1x2N/Skynet.png" group-title="LIVE TV",SKYNET HD
