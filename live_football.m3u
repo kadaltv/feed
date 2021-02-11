@@ -47,7 +47,7 @@ http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 10 FPT
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtDnVx7r/math-fotbol-1hd.png" group-title="LIVE TV",SKYNET HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCFY1x2N/Skynet.png" group-title="LIVE TV",SKYNET HD
 http://thaicable.myftp.org:8000/live/infosat/2020/7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7dcF4SJ/Astro_Supersport_1.png" group-title="LIVE TV",ASSP 1
 http://thaicable.myftp.org:8000/live/infosat/2020/10.m3u8
