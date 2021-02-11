@@ -46,3 +46,26 @@ http://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/02/1581149078672.png " group-title="SERIA A LIVE",SERIEA 10 FPT
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtDnVx7r/math-fotbol-1hd.png" group-title="LIVE TV",SKYNET HD
+http://thaicable.myftp.org:8000/live/infosat/2020/7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7dcF4SJ/Astro_Supersport_1.png" group-title="LIVE TV",ASSP 1
+http://thaicable.myftp.org:8000/live/infosat/2020/10.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn35Bk4C/Astro_Supersport_2.png" group-title="LIVE TV",ASSP 2
+http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ls6zrPqY/Astro_Supersport_3.png" group-title="LIVE TV",ASSP 3
+http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRvc2CbQ/Astro_Supersport_4.png" group-title="LIVE TV",ASSP 4
+http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtDnVx7r/math-fotbol-1hd.png" group-title="LIVE TV",Match! Football 1HD
+http://spacetv.in/stream/DIPK8H19CP8/130.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4QnXKSw/math-fotbol-2hd.png" group-title="LIVE TV",Match! Football 2HD
+http://spacetv.in/stream/DIPK8H19CP8/142.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtMYdg30/math-fotbol-3hd.png" group-title="LIVE TV",Match! Football 3HD
+http://spacetv.in/stream/DIPK8H19CP8/185.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4QNcTtB/setanta-sports.png" group-title="LIVE TV",SANTANTA SPORT 1HD
+http://spacetv.in/stream/DIPK8H19CP8/234.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4QNcTtB/setanta-sports.png" group-title="LIVE TV",SANTANTA SPORT 2HD
+http://spacetv.in/stream/DIPK8H19CP8/235.m3u8
+
